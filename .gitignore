@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated logs
+*.log
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Original course and lecture PDFs (keep locally)
+*.[pP][dD][fF]
