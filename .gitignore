@@ -21,3 +21,6 @@ Thumbs.db
 
 # Original course and lecture PDFs (keep locally)
 *.[pP][dD][fF]
+
+# Nested external student pipeline (managed separately)
+student_data_pipeline/

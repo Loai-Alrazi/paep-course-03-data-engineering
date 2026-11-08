@@ -1,0 +1,14 @@
+student_id,student_name,course_name,average_score
+1008,Noor Saleh,Artificial Intelligence,97.0
+1002,Mohammed Alansi,Python Programming,93.5
+1006,Nada Mohammed,Data Structures,93.5
+1002,Mohammed Alansi,Artificial Intelligence,91.0
+1004,Mona Saleh,Web Development,90.0
+1001,Loay Abdullah,Python Programming,86.0
+1004,Mona Saleh,Artificial Intelligence,82.5
+1001,Loay Abdullah,Database Systems,80.0
+1007,Ali Hassan,Web Development,76.5
+1003,Ziyad Ammar,Database Systems,74.0
+1003,Ziyad Ammar,Data Structures,74.0
+1005,Omar Ahmed,Database Systems,69.0
+1005,Omar Ahmed,Python Programming,68.5
